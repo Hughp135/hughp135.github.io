@@ -1,10 +1,10 @@
 # My projects
-I specialist in Javascript/Typescript, NodeJS and Angular (v4+), and also have plenty of experience with PHP and Laravel. Here are a few of my best personal projects:
+I specialise in Javascript (ES6+) and Typescript, NodeJS and Angular (v4+), and also have plenty of experience with PHP and Laravel. Here are a few of my best personal projects:
 
 ## Angular 5 / Websockets chat App
 An app I made that is heavily inspired by the popular chat app Discord.
 
-Built with NodeJS, MongoDB and Angular 5 and using Websockets for low latency and high throughput. Using test-driven development, there is also over 99% test coverage for the app. View the
+Built with NodeJS, MongoDB and Angular 5 and using Websockets for low latency and high throughput. Built in a test-driven style, I aim for over 99% test coverage throughout the app. View the
 [https://github.com/Hughp135/angular-5-chat-app](source code) on GitHub. 
 
 As well as working in-browser app, the app is also downloadable as a cross-platform desktop app (using Electron).
