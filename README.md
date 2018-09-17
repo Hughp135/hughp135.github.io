@@ -2,12 +2,15 @@
 
 ## Product Customiser Shopify App
 
-A Shopify-base app with an Angular v6 front-end that allows shops to have customisable products, the project is currently live and serves hundreds of monthly customers. To see the customisation app in action, select a product and click the 'Customize' button ([Live Demo](https://foxbox.io/apps/product-editor/32270605194)). The back-end is build in NodeJS and has an extensive admin panel built in React to manage orders and customer-made designs.
+### ([Live Demo](https://foxbox.io/apps/product-editor/32270605194))
+
+A Shopify-base app with an Angular v6 front-end that allows shops to have customisable products, the project is currently live and serves hundreds of monthly customers. To see the customisation app in action, select a product and click the 'Customize' button. The back-end is build in NodeJS and has an extensive admin panel built in React to manage orders and customer-made designs.
 
 ## Discord Clone App
 
-A real-time text & voice chat app for Web and Desktop built with NodeJS, MongoDB and Angular 5 and using Websockets. Heavily inspired by Discord and Slack.
-[Live Demo](https://chatapp.pubg.pet) (You must register an account to use it - no e-mail required).
+### [Live Demo](https://chatapp.pubg.pet)
+
+A real-time text & voice chat app for Web and Desktop built with NodeJS, MongoDB and Angular 5 and using Websockets. Heavily inspired by Discord and Slack. You must register an account to use the demo - no e-mail required though.
 
 ## osustuff.org
 
