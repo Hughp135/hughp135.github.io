@@ -4,7 +4,9 @@
 
 ### [Live Demo](https://foxbox.io/apps/product-editor/32270605194)
 
-A Shopify Web app using Angular 6 for the front-end and React JS for the admin panel. The app allows customsers to design their own decals and covers for tablets, mousepads and phones. The project is currently live and serves hundreds of monthly customers. The back-end is build in NodeJS, uses cloud-based storage for images (AWS) and has an extensive admin panel built accessible by admins which is used to manage customer-made designs and prepare them for printing.
+A Shopify Web app custom-made for [Foxbox](https://foxbox.io), a printing business. The app allows customers to design their own decals and covers for tablets, mousepads and phones on the website.
+
+The project is currently live and serves hundreds of monthly customers. The front end is built in Angular 6 and ReactJS, and the back-end is build in NodeJS. Cloud-based storage is used to store large amounts of uploads (AWS). The admin panel is built in React and accessible through Shopify, and is used to manage the customer-made designs and prepare them for printing.
 
 ## Discord Clone App
 
