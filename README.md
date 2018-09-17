@@ -13,7 +13,7 @@ A real-time text & voice chat app for Web and Desktop built with NodeJS, MongoDB
 
 [![Product Customiser](assets/images/osustuff.png)](https://www.osustuff.org/avatar-maker2)
 
-Made in my spare time while studying for my degree. A gaming website made for the community with useful image editing tools such as the [Avatar Maker](https://www.osustuff.org/avatar-maker2) and [Banner Maker](https://www.osustuff.org/banner-maker). Built with Laravel and Angular (v6) plus a lot of HTML/SCSS/JS/jQuery, the site is visited by ~15k monthly users.
+Made in my spare time while studying for my degree. A gaming website made for the community with useful image editing tools such as the [Avatar Maker](https://www.osustuff.org/avatar-maker2) and [Banner Maker](https://www.osustuff.org/banner-maker). Built with Laravel and Angular (v6), utilising HTML5 Canvases. The website attracts ~15k monthly visitors.
 
 ## Real-time Game Streaming App
 
