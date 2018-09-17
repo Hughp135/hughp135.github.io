@@ -4,7 +4,7 @@
 
 ### [Live Demo](https://foxbox.io/apps/product-editor/32270605194)
 
-A Shopify-base app with an Angular v6 front-end that allows shops to have customisable products, the project is currently live and serves hundreds of monthly customers. To see the customisation app in action, select a product and click the 'Customize' button. The back-end is build in NodeJS and has an extensive admin panel built in React to manage orders and customer-made designs.
+A Shopify Web app using Angular 6 for the front-end and React JS for the admin panel. The app allows customsers to design their own decals and covers for tablets, mousepads and phones. The project is currently live and serves hundreds of monthly customers. The back-end is build in NodeJS, uses cloud-based storage for images (AWS) and has an extensive admin panel built accessible by admins which is used to manage customer-made designs and prepare them for printing.
 
 ## Discord Clone App
 
