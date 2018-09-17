@@ -15,4 +15,4 @@ Built in my spare time while studying for my degree. A gaming website made for t
 
 ## `Real-time Game Streaming App`
 
-A web and desktop app that allows users to live-stream video and take control of their home computer from any device over the internet or local network. A desktop app (built in Electron) captures the display of the computer and uses WebRTC and WebSocket technology to stream data bi-directionally with as little as 20ms of latency to deliver a smooth gaming experience.
+A web and desktop app that allows users to live-stream video and take control of their home computer from any device over the internet or local network. A desktop app (built in Electron) captures the display of the computer and uses WebRTC and WebSocket technology to stream video and input data bi-directionally with as little as 20ms of latency to deliver a smooth gaming experience.
