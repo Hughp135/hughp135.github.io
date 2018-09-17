@@ -4,7 +4,7 @@
 
 A Shopify-base app with an Angular v6 front-end that allows shops to have customisable products, currently in use by a real business with hundreds of monthly customers. To see the customisation app in action, select a product and click the 'Customize' button ([Direct Example](https://foxbox.io/apps/product-editor/32270605194)). The back-end is build in NodeJS and has an extensive admin panel built in React to manage orders and customer-made designs.
 
-![Product Customiser](assets/images/product-customizer-1-cropped.jpg | width=250) ![Product Customiser](assets/images/product-customizer-3-cropped.png | width=250)
+![Product Customiser](assets/images/product-customizer-1-cropped.jpg) ![Product Customiser](assets/images/product-customizer-3-cropped.png)
 
 ## `Discord Clone App` - a realtime text & voice chat app for Web and Desktop
 
