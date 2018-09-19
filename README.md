@@ -12,7 +12,7 @@ The project is currently live and serves hundreds of monthly customers. The fron
 
 ### [Live Demo](https://chatapp.pubg.pet)
 
-A real-time text & voice chat app for Web and Desktop built with NodeJS, MongoDB and Angular 5 and using Websockets. Heavily inspired by Discord and Slack. You must register an account to use the demo - no e-mail required though.
+An open-source real-time text & voice chat app for Web and Desktop built with NodeJS, MongoDB and Angular 5 and using Websockets. Heavily inspired by Discord and Slack. You must register an account to use the demo - no e-mail required though. The source code can be viewed at [https://github.com/Hughp135/angular-5-chat-app](https://github.com/Hughp135/angular-5-chat-app).
 
 ## osustuff.org
 
