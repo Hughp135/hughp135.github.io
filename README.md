@@ -15,7 +15,7 @@ A web-app based in Angular 5 / Node (+Typescript) made for the website [Foxbox](
 I made a clone of the popular chat app Discord using Angular 5 and MongoDB/Node (with Typescript). Source code is at: [https://github.com/Hughp135/angular-5-chat-app](https://github.com/Hughp135/angular-5-chat-app).
 
 ### osu! Bounties [Live Demo](https://www.osustuff.org/bounties/)
-[![Bounties System](https://i.imgur.com/dFaLLNo.png)](https://www.osustuff.org/bounties/)
+[![Bounties System](https://i.imgur.com/Hb71H6T.jpg)](https://www.osustuff.org/bounties/)
 A website for people to place bounties for people to set scores on the game osu! This website is built using Angular 7 and uses a Laravel/MySQL back-end and is used by lots of members of the community to challenge each other in the game.
 
 
