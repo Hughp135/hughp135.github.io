@@ -11,7 +11,7 @@ A web-app based in Angular 5 / Node (+Typescript) made for the website [Foxbox](
 
 
 ### Discord Clone App - [Live Demo](https://chatapp.pubg.pet)
-
+[![Avatar Maker](https://i.imgur.com/bziNHVn.png)](https://chatapp.pubg.pet)
 I made a clone of the popular chat app Discord using Angular 5 and MongoDB/Node (with Typescript). [https://github.com/Hughp135/angular-5-chat-app](https://github.com/Hughp135/angular-5-chat-app).
 
 
